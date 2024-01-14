@@ -1,4 +1,4 @@
-# Data Science Salaries Dashboard - Tableau
+# 1. Data Science Salaries Dashboard - Tableau
 
 ## Overview
 
